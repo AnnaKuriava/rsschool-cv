@@ -14,3 +14,18 @@ All my free time I study the basics of JS.
 ## Skills
 
 I'm learning HTML, CSS and Javascript.
+
+## Work Experience
+
+I'm not working now. I'm a mother on maternity leave.
+
+## Education
+
+free courses:
+
+- Html Academy
+- ru.code-basics.com
+
+## English level
+
+A2
